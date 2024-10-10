@@ -1,0 +1,2 @@
+# man-sla2
+fazendocoisasaleatoriassemsentidonenhum
